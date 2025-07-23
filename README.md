@@ -22,20 +22,9 @@ The model is defined in gnn_model.py using PyTorch Geometric.
 
 Graph is built from the correlation matrix of input features using dense_to_sparse.
 
-📂 Project Structure
-bash
-Copy
-Edit
-cyber-anomaly-detection/
-├── app.py                # Streamlit GNN app
-├── gnn_model.py          # GCN model & graph builder
-├── preprocess.py         # Label encoding + preprocessing
-├── requirements.txt      # Deployment dependencies
-└── README.md             # Project documentation
+```
 ▶️ Run Locally
-bash
-Copy
-Edit
+
 git clone https://github.com/Nisha-Asabe/cyber-anomaly-detection.git
 cd cyber-anomaly-detection
 pip install -r requirements.txt
