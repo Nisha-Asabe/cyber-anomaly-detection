@@ -29,6 +29,4 @@ Graph is built from the correlation matrix of input features using dense_to_spar
 - cd cyber-anomaly-detection
 - pip install -r requirements.txt
 - streamlit run app.py
-🌐 Live Demo
-🔗 Click to View Live App
 
