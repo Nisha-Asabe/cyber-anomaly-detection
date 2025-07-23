@@ -31,5 +31,4 @@ Graph is built from the correlation matrix of input features using dense_to_spar
 - streamlit run app.py
 🌐 Live Demo
 🔗 Click to View Live App
-(Update this link after Streamlit deployment)
 
